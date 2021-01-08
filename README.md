@@ -19,6 +19,6 @@ Classification of Genre between Hip-Hop and Rock
 * Principal Component Analysis(PCA)
 
 # Conclusion
-In this dataset it was noted the Logistic Regression performed better than the Decision tree classifier.
+* In this dataset it was noted the Logistic Regression performed better than the Decision tree classifier.
 
 # Thank You
